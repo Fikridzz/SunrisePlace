@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Sunset Place</string>
+
+    <string-array name="nama_tempat">
+        <item>Keindahan Sunset di Gunung Bromo Yang Sudah Mendunia, Seakan Menyihir Siapapun Yang Melihatnya</item>
+        <item>Pantai Derawan di Kalimantan Timur Memiliki Sunset Yang Menyajikan Warna Serta Suasana Yang Begitu Rileks</item>
+        <item>Tidak Jauh Dari Prambanan, Terdapat Keraton Ratu Boko Yang Dikarenakan Letaknya di Bukit Sehingga Dapat Memberikanmu Sunset Yang Aduhai</item>
+        <item>Destinasi Yang Kini Sedang Hits Seperti Kalibiru di Yogyakarta Ini, Ternyata Memiliki Sunset Yang Indah</item>
+        <item>Danau Toba di Medan, Sumatera Utara Juga Menyimpan Pesona Sunset Yang Tidak Kalah Indahnya</item>
+        <item>Meskipun Selalu Ramai Dan Sudah Sangat Mendunia, Keindahan Sunset di Pantai Kuta Bali Tetap Tidak Bisa Dipungkiri</item>
+        <item>Pantai Suluban Atau Blue Point Beach di Bali Ini Dikenal Memiliki Fenomena Sunset Yang Spektakuler</item>
+        <item>Kalian Pasti Belum Tahu Kalau Sunset di Selat Lombok, NTB Itu Sangat Memikat Hati</item>
+        <item>Berada di Ujung Barat Bulau Jawa, Membuat Sunset di Pulau Umang, Banten Ini Menjadi Sangat Fantastis</item>
+        <item>Berkunjunglah ke Rawa Pening, Ambarawa Jika Ingin Terbius Oleh Keindahan Sunsetnya</item>
+        <item>Gili Trawangan Merupakan Destinasi Berlibur Yang Memiliki Sisi Pulau Untuk Menikmati Sunsetnya Yang Eksotis</item>
+        <item>Lagi-lagi Bali Memiliki Pesona Sunset Yang Berbeda, Pantai Tegal Wangi Ini Seakan Memiliki Magic Pada Sunsetnya</item>
+        <item>Jangan Sampai Ketinggalan Untuk Menyaksikan Sunset Dan Refleksinya di Embung Gunung Api Purba Nglanggeran, Yogyakarta</item>
+        <item>Sunset Juga Akan Sangat Indah Bila Dinikmati di Pantai Losari, Makasar</item>
+        <item>Pantai Parangtritis Juga Dikenal Sebagai Tempat yang Sangat Cantik Untuk Menikmati Golden Hour Atau Sunset di Yogyakarta</item>
+        <item>Pura Ullun Danu Bratan, Bali, Bisa Menjadi Tempat Yang Sangat Foto Genic Ketika Menjelang Sunset</item>
+        <item>Pelabuhan Sunda Kelapa di Jakarta Juga Bisa Menjadi Tempat Yang Asik Berburu Sunset Loh!</item>
+    </string-array>
+    
+    <integer-array name="gamabar_tempat">
+        <item>@drawable/bromo</item>
+        <item>@drawable/derawan</item>
+        <item>@drawable/keraton</item>
+        <item>@drawable/kalibiru</item>
+        <item>@drawable/toba</item>
+        <item>@drawable/kuta</item>
+        <item>@drawable/suluban</item>
+        <item>@drawable/selatlombok</item>
+        <item>@drawable/umang</item>
+        <item>@drawable/pening</item>
+        <item>@drawable/gili</item>
+        <item>@drawable/tegal</item>
+        <item>@drawable/embung</item>
+        <item>@drawable/losari</item>
+        <item>@drawable/parangtritis</item>
+        <item>@drawable/ulun</item>
+        <item>@drawable/sundakelapa</item>
+
+    </integer-array>
+
+</resources>
